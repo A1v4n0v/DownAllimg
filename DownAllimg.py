@@ -1,4 +1,4 @@
-print('AutoWL V1.0 ~ A1v4n0v (2023)')
+print('DownAllimg V1.0 ~ A1v4n0v (2023)')
 print('Esse Script vai fazer o Download de todas as imagens da URL informada ')
 
 
