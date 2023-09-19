@@ -1,3 +1,7 @@
+print('AutoWL V1.0 ~ A1v4n0v (2023)')
+print('Esse Script vai fazer o Download de todas as imagens da URL informada ')
+
+
 import os
 import requests
 from bs4 import BeautifulSoup
